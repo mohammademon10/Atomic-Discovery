@@ -163,7 +163,7 @@ If not provided, the app automatically switches to Wikipedia fallback mode.
 ## 🌐 Live Demo
 
 🔗 **Live Application**
-[https://mohammademon10.github.io/atomic-discovery/](https://mohammademon10.github.io/atomic-discovery/)
+[https://mohammademon10.github.io/atomic-discovery/](https://mohammademon10.github.io/Atomic-Discovery/)
 
 📂 **Source Code**
 [https://github.com/your-username/atomic-discovery](https://github.com/mohammademon10/atomic-discovery)
@@ -220,5 +220,6 @@ If you find this project helpful:
 **Md. Emon Hossain**
 Computer Science & Engineering
 Daffodil International University
+
 
 
