@@ -76,7 +76,7 @@ Click any element to view:
 
 ### 🔬 Main Periodic Table View
 
-![Periodic Table View](![alt text](image.png))
+![alt text](image.png)
 
 
 ### 🧠 AI Generated Visualization
@@ -228,6 +228,7 @@ If you find this project helpful:
 **Md. Emon Hossain**
 Computer Science & Engineering
 Daffodil International University
+
 
 
 
