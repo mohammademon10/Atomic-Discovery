@@ -81,7 +81,15 @@ Click any element to view:
 
 ### 🧠 AI Generated Visualization
 
-![AI Visualization](![alt text](image-1.png))
+![alt text](image-1.png)
+
+<img width="842" height="456" alt="image" src="https://github.com/user-attachments/assets/dcb73eb1-ffff-438f-a503-d4edef36c5a0" />
+
+<img width="902" height="516" alt="image" src="https://github.com/user-attachments/assets/bff01d04-30d6-49b1-b642-6e8ef524d8b8" />
+
+<img width="912" height="563" alt="image" src="https://github.com/user-attachments/assets/9d835a65-7642-401e-9778-111c56d34cdb" />
+
+
 
 
 ---
@@ -220,6 +228,7 @@ If you find this project helpful:
 **Md. Emon Hossain**
 Computer Science & Engineering
 Daffodil International University
+
 
 
 
